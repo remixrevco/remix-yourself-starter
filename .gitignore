@@ -1,0 +1,20 @@
+# The context/ stubs and people/EXAMPLE.md ship as templates (placeholders only).
+# Your real people files and component outputs stay local by default.
+
+# Real people files (the EXAMPLE template is tracked)
+people/*.md
+!people/EXAMPLE.md
+
+# Component working outputs (your generated files, not the shipped commands)
+**/today.md
+!**/.claude/commands/today.md
+**/daily/
+**/transcripts/
+**/briefs/
+**/standup/
+**/inbox/
+
+# OS / editor cruft
+.DS_Store
+.obsidian/
+*.tmp
