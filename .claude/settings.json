@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'Welcome to Remix Yourself. New here? Run /start and I will get you a sorted day in about five minutes. Just want to look around first? Run /tour.'"
+          }
+        ]
+      }
+    ]
+  }
+}
