@@ -45,8 +45,6 @@ This is the system disassembled into its best parts, run by hand. The Kit is the
 
 When you have felt these stick together and you want the whole thing to run itself, that is the Kit.
 
-→ [Get the Kit](#)
-
 And to keep your system improving every week, the Membership is the standing home. New components, explainer videos, office hours, and a health check.
 
-→ [Join the Membership](#)
+→ [See the ladder](https://remixsystems.co) · [Join the list](https://tally.so/r/D4yd0R) · full walk in [`LADDER.md`](./LADDER.md)

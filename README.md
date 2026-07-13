@@ -4,6 +4,8 @@ Five working AI components for Claude Code. Each one is useful on its own. Drop 
 
 This is a personal operating system, disassembled into its best parts, run by hand. Start with one. Add as you go.
 
+**Never used this before?** Open the folder in [Claude Code](https://claude.com/claude-code) and run `/start`. A guide in Andy's voice gets you a real sorted day in about five minutes, then teaches the rest one step at a time. Want to look around first, run `/tour`. Using a different AI? Point it at [`AI-START-HERE.md`](./AI-START-HERE.md).
+
 ---
 
 ## The five components
@@ -71,8 +73,10 @@ This is the system disassembled and run by hand. The **Kit** is the same parts a
 
 The **Membership** is the standing home that keeps your system improving every week, new components, explainer videos, office hours, and a health check.
 
-→ [Get the Kit](#) · [Join the Membership](#)
+→ [See the ladder](https://remixsystems.co) · [Join the list](https://tally.so/r/D4yd0R)
+
+Full walk of the rungs, and how to reach Andy before checkout is wired up, in [`LADDER.md`](./LADDER.md).
 
 ---
 
-Built by [Remix Systems](#). Free to use, fork, and bend.
+Built by [Remix Systems](https://remixsystems.co). Free to use, fork, and bend.
