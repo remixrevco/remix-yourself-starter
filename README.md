@@ -79,4 +79,4 @@ Full walk of the rungs, and how to reach Andy before checkout is wired up, in [`
 
 ---
 
-Built by [Remix Systems](https://remixsystems.co). Free to use, fork, and bend.
+Built by [Remix Systems](https://remixsystems.co). Free to use, fork, and bend. MIT licensed, see [LICENSE](./LICENSE).
