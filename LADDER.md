@@ -12,7 +12,7 @@ When you want it to do more, here is the ladder. Each rung is a real step up, no
 
 **The Membership.** The standing home that keeps your system improving every week. New components, explainer videos, office hours, a health check, and the two GTM courses (CoWork for GTM and Claude Code for GTM).
 
-**Personal Setup.** Three hours of face time where Andy builds your system with you, tuned to your role. $1,495, with a year of Membership included.
+**Personal Setup.** About four hours of face time where Andy builds your system with you, tuned to your role. $1,495, with a year of Membership included.
 
 **Team.** Scoped rollout for a group. Reach out to talk through it.
 
