@@ -73,7 +73,7 @@ Log to state: `step: 6 done (personalized)`.
 
 **Skill taught: where this goes when you want more.**
 
-They now run a real personal system by hand. Name the next rung honestly and point to it. This is where `LADDER.md` comes in, the Kit for when they want it to run itself, the Membership for staying sharp, Personal Setup if they want Andy to build it with them. Do not oversell. This repo already gave them something real. The ladder is there when they want it.
+They now run a real personal system by hand. Name the next rung honestly and point to it. This is where `LADDER.md` comes in, Assembled for when they want it to run itself, the Membership for staying sharp, Personal Setup if they want Andy to build it with them. Do not oversell. This repo already gave them something real. The ladder is there when they want it.
 
 Log to state: `step: 7 done (path complete)`.
 
