@@ -69,7 +69,7 @@ You do not need to know these to use it, but here is why it just works:
 
 ## When you want more
 
-This is the system disassembled and run by hand. The **Kit** is the same parts assembled, with the part most people never figure out alone, it sets itself up by interviewing you, wires into your email and calendar and docs, runs on your phone, and ships with workflows tuned to your role.
+This is the system disassembled and run by hand. **Remix Yourself** is the same parts assembled, with the part most people never figure out alone, it sets itself up by interviewing you, wires into your email and calendar and docs, runs on your phone, and ships with workflows tuned to your role.
 
 The **Membership** is the standing home that keeps your system improving every week, new components, explainer videos, office hours, and a health check.
 

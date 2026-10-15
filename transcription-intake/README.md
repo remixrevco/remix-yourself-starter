@@ -32,4 +32,4 @@ This is the component that feeds the others. The people and notes it captures ar
 
 ## When you want more
 
-Free processes a transcript when you run it. The Kit processes them automatically, while you sleep it reads the day's calls, drafts the follow-ups in your voice, and has them waiting at 6am. Same engine, no hands.
+Free processes a transcript when you run it. Remix Yourself processes them automatically, while you sleep it reads the day's calls, drafts the follow-ups in your voice, and has them waiting at 6am. Same engine, no hands.

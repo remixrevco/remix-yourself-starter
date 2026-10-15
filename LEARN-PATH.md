@@ -73,7 +73,7 @@ Log to state: `step: 6 done (personalized)`.
 
 **Skill taught: where this goes when you want more.**
 
-They now run a real personal system by hand. Name the next rung honestly and point to it. This is where `LADDER.md` comes in, Assembled for when they want it to run itself, the Membership for staying sharp, Personal Setup if they want Andy to build it with them. Do not oversell. This repo already gave them something real. The ladder is there when they want it.
+They now run a real personal system by hand. Name the next rung honestly and point to it. This is where `LADDER.md` comes in, Remix Yourself for when they want it to run itself, the Membership for staying sharp, Guided if they want Andy to build it with them. Do not oversell. This repo already gave them something real. The ladder is there when they want it.
 
 Log to state: `step: 7 done (path complete)`.
 
@@ -83,4 +83,4 @@ Log to state: `step: 7 done (path complete)`.
 
 - If the person jumps ahead ("just show me the writer"), let them. Run the tool, then offer to loop back to what they skipped. The order is the default, not a cage.
 - If a step's tool needs a value you do not have, use a `{placeholder}` and keep moving. Never stall the win.
-- MCP, automation, scheduling, and multi-machine sync are not on this path. They are the Kit. Do not teach them here.
+- MCP, automation, scheduling, and multi-machine sync are not on this path. They are Remix Yourself. Do not teach them here.

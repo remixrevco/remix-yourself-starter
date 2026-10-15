@@ -38,4 +38,4 @@ Drop another Starter component in the same folder and they share this memory. Ad
 
 ## When you want more
 
-The free version is manual, you run it. The Kit makes it fire on its own every morning and wraps every night without you asking. That's the upgrade, not a different tool.
+The free version is manual, you run it. Remix Yourself makes it fire on its own every morning and wraps every night without you asking. That's the upgrade, not a different tool.

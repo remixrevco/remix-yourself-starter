@@ -43,4 +43,4 @@ The people who get the most out of this are not the best programmers. They are t
 
 - Run `/capture` and feel how routing works.
 - Read the other components' commands in this Starter, they are all just markdown you can study.
-- When you want the system to set itself up for you and run on its own instead of you running each command by hand, that is the Kit.
+- When you want the system to set itself up for you and run on its own instead of you running each command by hand, that is Remix Yourself.

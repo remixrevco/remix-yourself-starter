@@ -1,6 +1,6 @@
 # How to Stick Them Together
 
-Each component works alone. Drop two or more in the same folder and they share one memory, so the whole thing compounds. This is the preview of the assembled system, the Kit.
+Each component works alone. Drop two or more in the same folder and they share one memory, so the whole thing compounds. This is the preview of Remix Yourself.
 
 ## The big idea
 
@@ -41,9 +41,9 @@ The full shape, schemas, and read/write rules live in [`COMPOSE-CONTRACT.md`](./
 
 ## What's next
 
-This is the system disassembled into its best parts, run by hand. The Kit is the same parts assembled, with the part most people never figure out alone, it sets itself up by interviewing you, wires into your email and calendar and docs, runs on your phone, and ships with workflows tuned to your role.
+This is the system disassembled into its best parts, run by hand. Remix Yourself is the same parts assembled, with the part most people never figure out alone, it sets itself up by interviewing you, wires into your email and calendar and docs, runs on your phone, and ships with workflows tuned to your role.
 
-When you have felt these stick together and you want the whole thing to run itself, that is the Kit.
+When you have felt these stick together and you want the whole thing to run itself, that is Remix Yourself.
 
 And to keep your system improving every week, the Membership is the standing home. New components, explainer videos, office hours, and a health check.
 

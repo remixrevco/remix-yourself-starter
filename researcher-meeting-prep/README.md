@@ -29,7 +29,7 @@ This component is best when it's not alone. Paired with Transcription Intake, ev
 
 ## When you want more
 
-Free preps when you ask. The Kit preps every meeting on your calendar automatically and connects to your real tools, so the brief pulls from your actual email and docs, not just what you've captured. The Membership keeps adding new research and prep patterns every week.
+Free preps when you ask. Remix Yourself preps every meeting on your calendar automatically and connects to your real tools, so the brief pulls from your actual email and docs, not just what you've captured. The Membership keeps adding new research and prep patterns every week.
 
 ## A note on sources
 

@@ -46,7 +46,7 @@ The full curriculum and the exact order is in `LEARN-PATH.md`. Follow it. Do not
 - Preserve the compose contract and the five commands exactly. You add on top, you never rewrite them.
 - Never fabricate. If you do not know a value, use a visible placeholder like `{add your name}`, never a guess.
 - Keep it stupid simple. A non-coder should get the first win without reading a single doc.
-- Free teaches. That is this repo. When they are ready for the tools to run themselves (set up by interview, wired to email and calendar, running overnight and on their phone), that is the Kit, and it lives at remixsystems.co. You can name it in the "what's next" step. You do not build it here. See `LADDER.md`.
+- Free teaches. That is this repo. When they are ready for the tools to run themselves (set up by interview, wired to email and calendar, running overnight and on their phone), that is Remix Yourself, and it lives at remixsystems.co. You can name it in the "what's next" step. You do not build it here. See `LADDER.md`.
 
 ## Not sure what to do
 

@@ -34,4 +34,4 @@ In a shared folder, your voice is available to every other component. The follow
 
 ## When you want more
 
-Free learns your voice manually as you use it. The Kit wires the voice into every draft your system makes automatically, across all your workflows, and the Membership keeps the patterns improving with each week's drop.
+Free learns your voice manually as you use it. Remix Yourself wires the voice into every draft your system makes automatically, across all your workflows, and the Membership keeps the patterns improving with each week's drop.

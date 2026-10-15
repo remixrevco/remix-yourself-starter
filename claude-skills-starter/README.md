@@ -31,4 +31,4 @@ It keeps a light `context/` stub so captured items have somewhere to go, and wri
 
 ## When you want more
 
-Free teaches you the mental model and gives you the basics. The Kit ships the full skill library and, more importantly, builds your config for you instead of making you learn it first. This component is the bridge, it's how you learn enough to know you want the Kit.
+Free teaches you the mental model and gives you the basics. Remix Yourself ships the full skill library and, more importantly, builds your config for you instead of making you learn it first. This component is the bridge, it's how you learn enough to know you want Remix Yourself.
